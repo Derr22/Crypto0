@@ -28,7 +28,7 @@ public class CryptoMain {
         }
 
 
-        
+
 
         System.out.println("\n");
 
